@@ -21,9 +21,9 @@ To use our file, you need to download the python file and run it in a Python IDE
  
   Our software is licensed under the MIT License - see the LICENSE.md file for details.
   
- # Reasoning on why we chose this license and Code of Conduct
+ # Reasoning on why we chose this License and Code of Conduct
  
- We chose the MIT License because it has the highest license compatibility and limited restrictions on reuse of our code. We chose this code of conduct because 
+ We chose the MIT License because it has the highest license compatibility and limited restrictions on reuse of our code. We chose this code of conduct because it aligns the most with our values.
   
  # Authors
  
