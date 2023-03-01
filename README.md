@@ -8,6 +8,14 @@
   
   This project was created to teach people how to use the input command in Python. It is useful to learn this command because it is used heavily for user interaction with the program.
   
+ # Code of Conduct
+ 
+  We expect all contributors to follow our Code of Conduct, which outlines our expectations for respectful and inclusive behavior. Please review the Code of Conduct before contributing to this project.
+ 
+ # License
+ 
+  Our software is licensed under the MIT License - see the LICENSE.md file for details.
+  
  # Authors
  
  Ankita Raj
